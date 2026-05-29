@@ -132,7 +132,7 @@ The function returns the path to the written CSV when complete.
 
 Tested with:
 - Python 3.10
-- vLLM 0.8.x (0.19.1 on TSCC)
+- vLLM 0.8.x
 - transformers 4.47+
 - bitsandbytes 0.44+
 - CUDA 12.x, A100 40GB
